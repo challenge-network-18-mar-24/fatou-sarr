@@ -1,7 +1,17 @@
-.blue {
-    color: blue;
-    
-} 
-.viola {
-    color: blueviolet;
+body{
+    background-color: blueviolet;
 }
+
+
+body .menu { 
+    background-color: #e3e3ed;
+ display: flex; 
+ justify-content: space-evenly;  
+}
+
+.fatou{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
